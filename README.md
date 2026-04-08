@@ -41,14 +41,14 @@ Data science and consulting project analysing the impact of electrification, bik
 **Key Highlights:**
 
 * Applied time series, geospatial, and comparative analysis to real-world transport datasets  
-* Evaluated the effectiveness of bike-sharing, EV infrastructure, and LEZ policies 
+* Evaluated the effectiveness of bike-sharing, EV infrastructure, and LEZ policies  
 * Used Power BI for interactive dashboards and spatial analysis  
 * Implemented CRISP-DM methodology for structured data analysis  
 * Delivered data-driven recommendations to support net-zero goals by 2045  
 
 ---
 
-### 🛍️ JCPenney Data Analytics Case Study 
+### 🛍️ JCPenney Retail Data Analysis: Customer Behaviour & Pricing Insights 
 
 **Description:**  
 Python-based data analytics project analysing retail datasets to generate actionable business insights and support decision-making.
@@ -62,6 +62,19 @@ Python-based data analytics project analysing retail datasets to generate action
 
 ---
 
+### 🌱 Solasta Bio's Innovation Journey: Opportunities and Challenges in Biopesticides
+
+**Description:**  
+Innovation management case study evaluating Solasta Bio’s business model, market opportunities, and growth challenges.
+
+**Key Highlights:**
+
+* Applied Doblin’s Ten Types of Innovation framework  
+* Analysed industry trends and competitive landscape  
+* Proposed strategic recommendations to support growth in the biopesticides market  
+
+---
+
 ### 📈 Personal Development Plan
 
 **Description:**  
@@ -72,19 +85,6 @@ Personal and professional development portfolio outlining my career goals, skill
 * Conducted SWOT analysis and skills assessment  
 * Defined clear short-, medium-, and long-term career goals  
 * Developed a structured and realistic learning and career progression plan  
-
----
-
-### 🌱 Solasta Bio Innovation Case Study
-
-**Description:**  
-Innovation management case study evaluating Solasta Bio’s business model, market opportunities, and growth challenges.
-
-**Key Highlights:**
-
-* Applied Doblin’s Ten Types of Innovation framework  
-* Analysed industry trends and competitive landscape  
-* Proposed strategic recommendations to support growth in the biopesticides market  
 
 ---
 
